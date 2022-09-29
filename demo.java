@@ -4,6 +4,7 @@ class demo{
         int i;
         i=sc.nextInt();
         System.out.println(i+i);
+	    System.out.println(i+i);
 <<<<<<< HEAD
         System.out.println("demo without change");
 =======
