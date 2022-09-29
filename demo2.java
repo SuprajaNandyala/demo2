@@ -4,5 +4,6 @@ class demo2{
         int i;
         i=sc.nextInt();
         System.out.println(i);
+        System.out.println("demo2");
     }
 }
