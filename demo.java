@@ -4,6 +4,6 @@ class demo{
         int i;
         i=sc.nextInt();
         System.out.println(i);
-        System.out.println("demo");
+        System.out.println("demo without change");
     }
 }
